@@ -3,8 +3,8 @@
  * Write a description of CaesarCipher here.
  * Create a new class called CaesarCipher.
  *
- * @author (Aymar N.) 
- * @version (25.02.19)
+ * @author (YUSUF CAGRI DAL) 
+ * 
  */
 import edu.duke.*;
 
