@@ -5,8 +5,8 @@
  * Create the TestCaeasarCipherTwo class with the following parts
  * Include halfOfString, CountLetters and maxIndex
  * 
- * @author (Aymar NAHUM) 
- * @version (16.02.2019 V2)
+ * @author (YUSUF ÇAĞRI DAL) 
+ * 
  */
 import edu.duke.*;
 

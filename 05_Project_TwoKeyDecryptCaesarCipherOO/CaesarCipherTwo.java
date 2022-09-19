@@ -8,8 +8,8 @@
  * automatically decrypt an encrypted file by determining the two keys that 
  * were used to encrypt it.
  * 
- * @author (Aymar NAHUM) 
- * @version (16.02.2019 V2)
+ * @author (YUSUF ÇAĞRI DAL) 
+ * 
  */
 
 import edu.duke.*;
